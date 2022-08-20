@@ -1,3 +1,5 @@
+![Header](https://capsule-render.vercel.app/api?text=Hi\,&nbsp;there&type=waving&color=364765&height=200&section=header&fontColor=FAF7F5)
+
 <div align="center">
     
   <img align="right" src="https://github-readme-stats.vercel.app/api?username=roa9618&show_icons=true&theme=dracula&exclude_repo=Computer-Science-Engineering&langs_count=10"/>
@@ -24,3 +26,5 @@
 <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=Git&logoColor=white"/> <img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=GitHub&logoColor=white"/> <img src="https://img.shields.io/badge/Notion-000000?style=flat&logo=Notion&logoColor=white"/> <img src="https://img.shields.io/badge/Velog-20C997?style=flat&logo=Velog&logoColor=white"/>
 
 </div>
+
+![Footer](https://capsule-render.vercel.app/api?type=waving&color=364765&height=200&section=footer)
