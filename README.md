@@ -8,7 +8,7 @@
 ---
 
 🍏 Roa9618.log 🍏 https://velog.io/@roa9618<br><br>
-🍊 RoaIT 🍊 https://blog.naver.com/ykjrco<br><br>
+🍊 RoaIT 🍊 https://blog.naver.com/ykjrco<br><br><br>
 - - -
 <br>
   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=roa9618&theme=dracula&exclude_repo=Computer-Science-Engineering&langs_count=10"/>
