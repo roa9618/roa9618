@@ -1,4 +1,4 @@
-![Header](https://capsule-render.vercel.app/api?text=Hi\,&nbsp;there&type=waving&color=364765&height=200&section=header&fontColor=FAF7F5)
+![Header](https://capsule-render.vercel.app/api?text=Hi\,&nbsp;there&type=waving&color=364765&height=150&section=header&fontColor=FAF7F5&fontSize=45)
 
 <div align="center">
     
@@ -27,4 +27,4 @@
 
 </div>
 
-![Footer](https://capsule-render.vercel.app/api?type=waving&color=364765&height=200&section=footer)
+![Footer](https://capsule-render.vercel.app/api?type=waving&color=364765&height=150&section=footer)
