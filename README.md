@@ -9,7 +9,6 @@
 [![Solved.ac 프로필](http://mazassumnida.wtf/api/mini/generate_badge?boj=rcoykj)](https://solved.ac/rcoykj)
 ---
 
-🍏 Roa9618.log 🍏 https://velog.io/@roa9618<br><br>
 🍊 RoaIT 🍊 https://blog.naver.com/ykjrco<br><br><br>
 - - -
 <br>
