@@ -8,7 +8,7 @@
 [![Solved.ac 프로필](http://mazassumnida.wtf/api/mini/generate_badge?boj=rcoykj)](https://solved.ac/rcoykj)
 
 <br><br>
-🍊 RoaIT 🍊 https://blog.naver.com/ykjrco<br><br><br>
+🍊 RoaIT 🍊 https://blog.naver.com/roait<br><br><br>
 - - -
 <br>
   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=roa9618&theme=dracula&exclude_repo=Computer-Science-Engineering&langs_count=10"/>
